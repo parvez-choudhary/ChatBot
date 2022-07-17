@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 ** Decent ChatBot Based On Nueral Network Model and Using the Brainshop.ai API **
+** SAMPLE VIDEO OF MY PROJECT **
+
+https://user-images.githubusercontent.com/109281535/179392190-ad9801f4-f622-420e-b942-4e3071dd2df6.mp4
+
+
+https://user-images.githubusercontent.com/109281535/179392271-8dd61a73-d24a-4be3-9e81-2d9f80dcfff4.mp4
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/109281535/179391393-83d2b3ea-73ba-4865-abe6-80f3dead468c.png)
 
